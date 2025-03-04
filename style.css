@@ -553,3 +553,15 @@ section.visible {
 ::-webkit-scrollbar-thumb:hover {
   background: #555;
 }
+.cursor {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: black;
+  animation: blink 0.7s infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
