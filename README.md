@@ -4,12 +4,12 @@
 This is a personal portfolio website showcasing my skills, projects, and contact information. Built using **HTML, CSS, and JavaScript**, it includes animations, smooth transitions, and a typing effect for dynamic text display.
 
 ## Features
-✅ **Responsive Design** – Works across all screen sizes
-✅ **Smooth Animations** – Section fade-ins, floating images, glowing text
-✅ **Typing Effect** – Alternates between "Frontend Developer" and "Data Analyst"
-✅ **Hamburger Menu** – Mobile-friendly navigation
-✅ **Projects Showcase** – Links to GitHub repositories
-✅ **Downloadable Resume** – One-click resume download
+- ✅ **Responsive Design** – Works across all screen sizes
+- ✅ **Smooth Animations** – Section fade-ins, floating images, glowing text
+- ✅ **Typing Effect** – Alternates between "Frontend Developer" and "Data Analyst"
+- ✅ **Hamburger Menu** – Mobile-friendly navigation
+- ✅ **Projects Showcase** – Links to GitHub repositories
+- ✅ **Downloadable Resume** – One-click resume download
 
 ## Technologies Used
 - **HTML** – Structure of the webpage
