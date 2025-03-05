@@ -23,7 +23,7 @@ This is a personal portfolio website showcasing my skills, projects, and contact
    ```
 2. Navigate to the project folder:
    ```sh
-   cd portfolio-website
+   cd portfolio
    ```
 3. Open `index.html` in your browser.
 
