@@ -156,9 +156,9 @@ section {
   min-height: fit-content;
 }
 
-.section-container {
+/* .section-container {
   display: flex;
-}
+} */
 
 /* PROFILE SECTION */
 
@@ -169,7 +169,7 @@ section {
   height: 80vh;
 }
 
-.section__pic-container {
+.section__pic-container1 {
   display: flex;
   height: 400px;
   width: 400px;
@@ -303,10 +303,10 @@ section {
   text-align: center;
 }
 
-.section-container {
+/* .section-container {
   gap: 4rem;
   height: 80%;
-}
+} */
 
 .section__pic-container {
   height: 400px;
